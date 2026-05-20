@@ -1,0 +1,6 @@
+numpy
+opencv-python
+torch
+torchvision
+demosaicnet==0.0.14
+tqdm
